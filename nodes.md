@@ -214,6 +214,16 @@ sudo systemctl restart sshd.service
 
 #### Firewall
 
+We will need this tool later on so lets install it now :
+```shell
+sudo apt-get install unzip
+```
+
+On CentOS:
+```shell
+dnf install unzip
+```
+
 First thing is to install firewall and lockdown the node, on Debian (Ubuntu):
 
 ```shell
