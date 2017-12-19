@@ -9,7 +9,7 @@ Prefered form is to run the nodes with colocation in high security datacenters l
 
 Since consensus nodes are the ones computing the network hardware requirements need to be reviewed periodically to guarantee that performance is optimal.
 
-If colocation is not possible the recomended IaaS providers and **minimum** configurations are listed bellow:
+If colocation is not possible the recomended IaaS providers and **minimum** configurations are listed below:
 
 - [OVH EG-32](https://www.ovh.com/us/dedicated-servers/infra/1801eg02.xml)
   - CPU: Intel  Xeon E3-1270v6 - 4c/8t - 3.8GHz
@@ -30,7 +30,7 @@ If colocation is not possible the recomended IaaS providers and **minimum** conf
   - NET: 2 x 1 Gbps Bonded
  
 #### Passwords
-Use a password manager to hold every password on this setup (Lastpass and Dashlane are recommended). All services should be setup with 2FA enabled and with physical keys when the option is disponible.
+Use a password manager to hold every password on this setup (Lastpass and Dashlane are recommended). All services should be setup with 2FA enabled and with physical keys when the option is available.
 
 All passwords should be considered strong (use this [lastpass solution](https://lastpass.com/generatepassword.php)).
 
